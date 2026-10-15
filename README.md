@@ -46,9 +46,10 @@ This is a conceptual model for the university project, not a claim that a deploy
 ## Project links
 
 - **Live website:** https://strong-sorbet-1fbd13.netlify.app/
-- **Website QR code:** [View the QR SVG](assets/website-qr.svg)
-- **Original 30-slide presentation:** pending upload to this repository.
-- **Android APK and APK QR code:** pending the APK file and a public download URL.
+- **Scan to open the website:** [Open the website QR code](https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=https%3A%2F%2Fstrong-sorbet-1fbd13.netlify.app%2F)
+- **Website QR code asset:** `assets/website-qr.svg` was previously linked but depended on an external image inside an SVG, which may not render on GitHub. Use the direct QR link above instead.
+- **Original 30-slide presentation:** upload the PowerPoint file to this repository using **Add file → Upload files**.
+- **Android APK and APK download QR:** not yet published. The APK QR should only be generated after the APK has a public download URL; a QR code cannot itself host the APK.
 
 ## Conclusion
 
