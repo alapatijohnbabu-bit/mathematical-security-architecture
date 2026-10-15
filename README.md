@@ -46,15 +46,9 @@ This is a conceptual model for the university project, not a claim that a deploy
 ## Project links
 
 - **Live website:** https://strong-sorbet-1fbd13.netlify.app/
-- **Website QR code:** [assets/website-qr.png](assets/website-qr.png)
-- **Original 30-slide presentation:** [presentation/merged_presentation_choladeck.pptx](presentation/merged_presentation_choladeck.pptx)
-- **Android APK:** Not uploaded yet. A direct download link and APK QR code can be added after the APK file is provided.
-
-## Repository contents
-
-- `README.md` — project overview and links.
-- `presentation/merged_presentation_choladeck.pptx` — original presentation.
-- `assets/website-qr.png` — website QR code.
+- **Website QR code:** [View the QR SVG](assets/website-qr.svg)
+- **Original 30-slide presentation:** pending upload to this repository.
+- **Android APK and APK QR code:** pending the APK file and a public download URL.
 
 ## Conclusion
 
