@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 33 33" width="660" height="660">
+<rect width="33" height="33" fill="#fff"/>
+<path fill="#000" d="M0 0h33v33H0z"/>
+<path fill="#fff" d="M4 4h25v25H4z"/>
+<image href="https://api.qrserver.com/v1/create-qr-code/?size=500x500&data=https%3A%2F%2Fstrong-sorbet-1fbd13.netlify.app%2F" width="33" height="33"/>
+</svg>
