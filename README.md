@@ -6,11 +6,20 @@ A university mathematics project about modelling secure messaging with discrete 
 
 **Live website:** https://strong-sorbet-1fbd13.netlify.app/
 
-Open the link above in Chrome, Edge, or another browser on your laptop. This is the browser-accessible version of the project; the Android APK is a separate mobile app package.
-
 [**Click here to open the live website**](https://strong-sorbet-1fbd13.netlify.app/)
 
-[**Website QR code**](https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=https%3A%2F%2Fstrong-sorbet-1fbd13.netlify.app%2F)
+Open this link in Chrome, Edge, or another browser on your laptop. The Android APK is a separate mobile app package.
+
+## Project presentation
+
+The shortened presentation has been updated to **9 slides**. Its final slide includes the GitHub repository link, the live website QR code, and the app QR code supplied by the project owner.
+
+**Note:** The updated PowerPoint file still needs to be uploaded to this repository. On GitHub, choose **Add file → Upload files**, select `mathematical_security_project_final_qr.pptx`, and commit the change.
+
+## QR code links
+
+- **Website QR code:** https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=https%3A%2F%2Fstrong-sorbet-1fbd13.netlify.app%2F
+- **GitHub repository:** https://github.com/alapatijohnbabu-bit/mathematical-security-architecture
 
 ## Project overview
 
@@ -52,14 +61,5 @@ A message is accepted only when every required condition is true. If any conditi
 6. Accept only if all required checks pass.
 
 This is a conceptual model for the university project, not a claim that a deployed system has passed a security audit.
-
-## Project files
-
-- **Presentation:** add the PowerPoint through **Add file → Upload files** if it is not yet in the repository.
-- **Android APK:** publish the APK as a GitHub release or another public download before sharing a direct APK download link. A QR code only points to a URL; it does not host the APK.
-
-## Conclusion
-
-Discrete mathematics gives a structured way to describe secure messaging: logic defines the decision rule; sets and relations model access; counting analyses key spaces; number theory supports cryptographic methods; graph theory models routes; and algebraic structures explain cryptographic operations.
 
 **Academic note:** Real systems should use established cryptographic libraries and be independently tested before protecting real data.
