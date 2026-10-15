@@ -2,6 +2,16 @@
 
 A university mathematics project about modelling secure messaging with discrete mathematics.
 
+## Open the project in a browser
+
+**Live website:** https://strong-sorbet-1fbd13.netlify.app/
+
+Open the link above in Chrome, Edge, or another browser on your laptop. This is the browser-accessible version of the project; the Android APK is a separate mobile app package.
+
+[**Click here to open the live website**](https://strong-sorbet-1fbd13.netlify.app/)
+
+[**Website QR code**](https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=https%3A%2F%2Fstrong-sorbet-1fbd13.netlify.app%2F)
+
 ## Project overview
 
 The project uses the example of Ravi sending a message to Priya through a secure campus network. It is organised into six modules that explain how mathematical ideas can describe security requirements and the accept/reject decision.
@@ -43,13 +53,10 @@ A message is accepted only when every required condition is true. If any conditi
 
 This is a conceptual model for the university project, not a claim that a deployed system has passed a security audit.
 
-## Project links
+## Project files
 
-- **Live website:** https://strong-sorbet-1fbd13.netlify.app/
-- **Scan to open the website:** [Open the website QR code](https://api.qrserver.com/v1/create-qr-code/?size=600x600&data=https%3A%2F%2Fstrong-sorbet-1fbd13.netlify.app%2F)
-- **Website QR code asset:** `assets/website-qr.svg` was previously linked but depended on an external image inside an SVG, which may not render on GitHub. Use the direct QR link above instead.
-- **Original 30-slide presentation:** upload the PowerPoint file to this repository using **Add file → Upload files**.
-- **Android APK and APK download QR:** not yet published. The APK QR should only be generated after the APK has a public download URL; a QR code cannot itself host the APK.
+- **Presentation:** add the PowerPoint through **Add file → Upload files** if it is not yet in the repository.
+- **Android APK:** publish the APK as a GitHub release or another public download before sharing a direct APK download link. A QR code only points to a URL; it does not host the APK.
 
 ## Conclusion
 
